@@ -17,7 +17,7 @@ Canva
 
 ### Visuals
 <div>
-<img src="schools-damage-gaza-strip-march24/slide1.jpg" alt="Structures damage in the Gaza strip, treemap chart" width="350"/>
+<img src="schools-damage-gaza-strip-march24/slide1.jpg" alt="Structures damage in the Gaza strip, waffle charts" width="350"/>
 <img src="schools-damage-gaza-strip-march24/slide2.jpg" alt="Structures damage in the Gaza strip, sources / info" width="350"/>
 </div>
 
