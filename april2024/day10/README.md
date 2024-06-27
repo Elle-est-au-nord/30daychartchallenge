@@ -22,6 +22,6 @@ Blockitecture® Habitat & Canva
 </div>
 
 <div>
-<img src="unis-damage-gaza-strip-2023-2024_update/slide1.jpg" alt="Food production damage in the Gaza strip, blocks" width="350"/>
-<img src="unis-damage-gaza-strip-2023-2024_update/slide2.jpg" alt=Food production damage in the Gaza strip, sources / info" width="350"/>
+<img src="unis-damage-gaza-strip-2023-2024_update/slide1.jpg" alt="Damages to higher education in the Gaza strip, blocks" width="350"/>
+<img src="unis-damage-gaza-strip-2023-2024_update/slide2.jpg" alt="Damages to higher education in the Gaza strip, sources / info" width="350"/>
 </div>

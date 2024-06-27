@@ -16,7 +16,7 @@ RAWGraphs & Canva
 
 ### Visuals
 <div>
-<img src="ecocide-gaza-strip-2023-2024/slide1.jpg" alt="Food production damage in the Gaza strip, pie charts" width="350"/>
-<img src="ecocide-gaza-strip-2023-2024/slide2.jpg" alt=Food production damage in the Gaza strip, sources / info" width="350"/>
+<img src="ecocide-gaza-strip-2023-2024/slide1.jpg" alt="Damages to food production in the Gaza strip, pie charts" width="350"/>
+<img src="ecocide-gaza-strip-2023-2024/slide2.jpg" alt="Damages to food production damage in the Gaza strip, sources / info" width="350"/>
 </div>
 
