@@ -16,7 +16,7 @@ RAWGraphs & Canva
 
 ### Visuals
 <div>
-<img src="damages-gaza-strip-2024/slide1.jpg" alt="Desctruction & damage in the Gaza strip, heatmaps" width="350"/>
-<img src="damages-gaza-strip-2024/slide2.jpg" alt="Desctruction & damage in the Gaza strip, sources / info" width="350"/>
+<img src="damages-gaza-strip-2024/slide1.jpg" alt="Destruction & damage in the Gaza strip, heatmaps" width="350"/>
+<img src="damages-gaza-strip-2024/slide2.jpg" alt="Destruction & damage in the Gaza strip, sources / info" width="350"/>
 </div>
 

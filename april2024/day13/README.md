@@ -16,7 +16,7 @@ RAWGraphs & Canva
 
 ### Visuals
 <div>
-<img src="uasc-gaza-strip-march24/slide1.jpg" alt="Damage to homes in the Gaza strip, pie charts" width="350"/>
+<img src="uasc-gaza-strip-march24/slide1.jpg" alt="Damage to homes in the Gaza strip, treemap" width="350"/>
 <img src="uasc-gaza-strip-march24/slide2.jpg" alt="Damage to homes in the Gaza strip, sources / info" width="350"/>
 </div>
 
